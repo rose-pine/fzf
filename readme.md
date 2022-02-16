@@ -17,7 +17,8 @@ In your `.bashrc`, `.zshrc`, etc, add the contents of `fzf.sh`, `fzf-moon.sh`, o
 
 ## Gallery
 
-![Rosé Pine with App](assets/template.png)
+![image](https://user-images.githubusercontent.com/44733677/154170838-06f54c28-a9d0-41cd-ad63-deffebacacde.png)
+
 
 ## Thanks to
 
