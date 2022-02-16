@@ -17,7 +17,11 @@ In your `.bashrc`, `.zshrc`, etc, add the contents of `fzf.sh`, `fzf-moon.sh`, o
 
 ## Gallery
 
-![image](https://user-images.githubusercontent.com/44733677/154170838-06f54c28-a9d0-41cd-ad63-deffebacacde.png)
+![rose](https://user-images.githubusercontent.com/44733677/154170838-06f54c28-a9d0-41cd-ad63-deffebacacde.png)
+
+![moon](https://user-images.githubusercontent.com/44733677/154171359-676ad57a-71fd-4401-b98f-13109a62ca72.png)
+
+![dawn](https://user-images.githubusercontent.com/44733677/154171447-915d1eab-bb57-488b-be44-ab23a12e96ec.png)
 
 
 ## Thanks to
