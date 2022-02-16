@@ -17,6 +17,8 @@ In your `.bashrc`, `.zshrc`, etc, add the contents of `fzf.sh`, `fzf-moon.sh`, o
 
 ## Gallery
 
+Shown below is `yay -Slq | fzf --multi --preview 'yay -Si {1}' | xargs -ro yay -S`
+
 ![rose](https://user-images.githubusercontent.com/44733677/154170838-06f54c28-a9d0-41cd-ad63-deffebacacde.png)
 
 ![moon](https://user-images.githubusercontent.com/44733677/154171359-676ad57a-71fd-4401-b98f-13109a62ca72.png)
