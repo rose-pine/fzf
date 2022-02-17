@@ -17,13 +17,13 @@ In your `.bashrc`, `.zshrc`, etc, add the contents of `fzf.sh`, `fzf-moon.sh`, o
 
 ## Gallery
 
-Shown below is `yay -Slq | fzf --multi --preview 'yay -Si {1}' | xargs -ro yay -S`
+Shown below is ytfzf
 
-![rose](https://user-images.githubusercontent.com/44733677/154170838-06f54c28-a9d0-41cd-ad63-deffebacacde.png)
+![rose](https://user-images.githubusercontent.com/44733677/154389444-70627b4e-2d03-4181-8a55-1e526efc047d.png)
 
-![moon](https://user-images.githubusercontent.com/44733677/154171359-676ad57a-71fd-4401-b98f-13109a62ca72.png)
+![moon](https://user-images.githubusercontent.com/44733677/154389538-7abbc01c-f799-4287-8d8c-f284e7ec8408.png)
 
-![dawn](https://user-images.githubusercontent.com/44733677/154171447-915d1eab-bb57-488b-be44-ab23a12e96ec.png)
+![dawn](https://user-images.githubusercontent.com/44733677/154389586-6392f8ea-a547-4895-9844-d6b78d3b32a2.png)
 
 
 ## Thanks to
