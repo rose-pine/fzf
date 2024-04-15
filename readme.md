@@ -31,6 +31,10 @@ function fzf --wraps="fzf"
 end
 ```
 
+**PowerShell**
+
+Copy the contents of `dist/.*ps1` to `~/Documents/PowerShell/Microsoft.PowerShell_profile.ps1`.
+
 ## Gallery
 
 **Rosé Pine**
